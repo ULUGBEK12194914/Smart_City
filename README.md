@@ -1,4 +1,5 @@
-# mid-term-assignment-
+# group
+-assignment-
 Smart City(GPS, speed_limit, weather_info
 
 # sms-midterm
